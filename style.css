@@ -1,3 +1,23 @@
 .head-primary .utilities-item svg {
   fill: black !important
 }
+
+.align-items-center {
+	background-color: white !important;
+}
+
+.nav-row {
+	background-color: #fd4018 !important;
+}
+
+.utilities-container {
+	color: black !important;
+}
+
+.head-primary .form-control {
+	border: solid .5px !important;
+}
+
+.pb-3, .py-3 {
+	background-color: white !important;
+}
